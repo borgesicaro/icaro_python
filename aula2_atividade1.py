@@ -26,7 +26,7 @@ def cumprimento(nome2):
     cumprimento('Romes o brabo')
     #atividade 7
     def soma(a, b):
-    print('A soma de ambos é '+str(a+b))
+     print('A soma de ambos é '+str(a+b))
 
     soma(25, 30)
     #atividade 8
