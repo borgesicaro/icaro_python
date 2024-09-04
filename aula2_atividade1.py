@@ -25,10 +25,10 @@ def cumprimento(nome2):
     print('olá'+nome2)
     cumprimento('Romes o brabo')
     #atividade 7
-    def soma(a, b):
+def soma(a, b):
      print('A soma de ambos é '+str(a+b))
 
-    soma(25, 30)
+soma(25, 30)
     #atividade 8
 def multiplicar(n1, n2):
     print('número 1'+ n1)
