@@ -17,3 +17,5 @@ n3=int(input('escolha um número'))
 num_pares=pares(n1, n2, n3)
 print(f" Os números pares são {pares(n1, n2, n3)}")
 print(f"A soma dos números pares é {soma(num_pares)}")
+
+# Perdão Romes,deu tempo de fazer até aqui #
